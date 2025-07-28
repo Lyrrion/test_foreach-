@@ -12,6 +12,11 @@ resource_group = {
     location = "Central India"
   }
 
+  rg_3 = {
+    name     = "Rg_mars"
+    location = "West US"
+  }
+
 }
 
 
